@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AWS Bedrock Knowledge Base with Aurora Serverless
 
 This project sets up an AWS Bedrock Knowledge Base integrated with an Aurora Serverless PostgreSQL database. It also includes scripts for database setup and file upload to S3.
@@ -161,3 +162,6 @@ To use it:
 - For any Terraform errors, ensure you're using a compatible version and that all module sources are correctly specified.
 
 For more detailed troubleshooting, refer to the error messages and logs provided by Terraform and the Python scripts.
+=======
+# aws-bedrock-building-intelligent-doc-query-system
+>>>>>>> 55795dd16f11087f88080aeb9936c3d40114121c
